@@ -107,7 +107,6 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
         <a href="https://arnon.page/"><img src="https://img.icons8.com/color/50/000000/web.png" alt="Website"/></a>
-	<a href="arnon.aroon@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail"/></a>
 	<a href="https://github.com/W8GOD"><img src="https://img.icons8.com/color/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/arnon-aroondech"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/Arnon001"><img src="https://img.icons8.com/color/50/000000/facebook-new.png" alt="Facebook"/></a>
